@@ -1,0 +1,20 @@
+{
+    "name": "wjizy/wjizy-log",
+    "description": "log",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "wj",
+            "email": "742491161@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "wjizyLog\\api\\": "src/",
+            "wjizyLog\\test\\": "test/"
+        },
+        "files": [  ]
+    }
+}
