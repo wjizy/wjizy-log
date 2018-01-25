@@ -9,7 +9,7 @@
             "email": "742491161@qq.com"
         }
     ],
-    "minimum-stability":"master",
+    "minimum-stability":"stable",
     "require": {
         "wjizy/wjizy-log":"dev-master"
     },
