@@ -9,9 +9,8 @@
             "email": "742491161@qq.com"
         }
     ],
-    "minimum-stability":"stable",
     "require": {
-        "wjizy/wjizy-log":"dev-master"
+      "php": ">=5.5.9"
     },
     "autoload":{
         "psr-4": {
