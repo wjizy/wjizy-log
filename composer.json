@@ -11,7 +11,7 @@
     ],
     "minimum-stability":"master",
     "require": {
-        "wjizy/wjizy-log":"master"
+        "wjizy/wjizy-log":"dev-master"
     },
     "autoload":{
         "psr-4": {
