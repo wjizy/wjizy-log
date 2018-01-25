@@ -9,12 +9,15 @@
             "email": "742491161@qq.com"
         }
     ],
-    "require": {},
+    "minimum-stability":"master",
+    "require": {
+        "wjizy/wjizy-log":"master"
+    },
     "autoload":{
         "psr-4": {
             "wjizyLog\\api\\": "src/",
             "wjizyLog\\test\\": "test/"
         },
-        "files": [  ]
+        "files": []
     }
 }
